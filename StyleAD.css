@@ -1,0 +1,15 @@
+label {
+    display: block;
+    margin-bottom: 0px;
+    font-weight: 10px;
+    font-size: 15px;
+  }
+  .remember-me {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+
+  .remember-me input {
+    margin-right: 6px;
+  }
